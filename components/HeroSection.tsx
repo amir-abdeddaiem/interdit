@@ -60,7 +60,7 @@ export default function HeroSection() {
       >
         <div className="relative w-80 h-80 md:w-[500px] md:h-[500px]">
           <Image
-            src="/jellyfish.jpg"
+            src="/jellyfish (2).png"
             alt="Floating jellyfish"
             fill
             className="object-contain drop-shadow-2xl"
